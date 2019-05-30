@@ -1,2 +1,2 @@
 # DeepLearning
-## Hanyang Univ. 2019-1 class
+## Hanyang Univ. Department of Computer Science and Engineering 2019-1 class
